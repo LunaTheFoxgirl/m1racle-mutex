@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/m1racle-mutex
+m1racle-mutex.so
+m1racle-mutex.dylib
+m1racle-mutex.dll
+m1racle-mutex.a
+m1racle-mutex.lib
+m1racle-mutex-test-*
+*.exe
+*.o
+*.obj
+*.lst
+libm1racle-mutex.a

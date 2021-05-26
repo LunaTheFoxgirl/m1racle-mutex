@@ -1,0 +1,5 @@
+name "m1racle-mutex"
+description "Simple mutex implemented over an Apple M1 security exploit"
+authors "Luna"
+copyright "Copyright © 2021, Luna"
+license "BSD 2-clause"
